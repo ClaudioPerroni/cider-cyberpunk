@@ -2,5 +2,4 @@
 
 A Cyberpunk 2077 inspired theme.
 
-
-![image](https://ibb.co/kgnjtSZ)
+![image](https://github.com/ClaudioPerroni/cider-cyberpunk/blob/main/preview.png)
