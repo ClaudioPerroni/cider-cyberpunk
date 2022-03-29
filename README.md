@@ -3,4 +3,4 @@
 A Cyberpunk 2077 inspired theme.
 
 
-![image](https://imgur.com/a/5MzPf8x)
+![image](https://ibb.co/kgnjtSZ)
