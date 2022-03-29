@@ -1,0 +1,15 @@
+{
+    "name": "Cyberpunk 2077",
+    "description": "Theme inspired by Cyberpunk 2077",
+    "version": "1.0.0",
+    "author": "ClaudioPerroni",
+    "github_repo": "ClaudioPerroni/cider-cyberpunk",
+    "directives": {
+        "windowLayout": {
+            "value": "twopanel"
+        },
+        "lcdArtworkSize": {
+            "value": 70
+        }
+    }
+}
